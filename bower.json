@@ -1,0 +1,13 @@
+{
+  "name": "js-md5",
+  "version": "1.0.0",
+  "description": "js-md5",
+  "main": "js-md5.html",
+  "keywords": [
+    "polymer","web-components"
+  ],
+  "dependencies": {
+    "polymer": "*",
+    "JavaScript-MD5": "blueimp/JavaScript-MD5"
+  }
+}
